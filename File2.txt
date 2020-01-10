@@ -6,3 +6,10 @@ file2- is modified for feature .work in progrss
  file updated for push check on remote
 change 3 in file recently on remote 
 change 4 to test the changes from remote master for rebase
+
+file2 is modified for feature .work in progrss 
+  
+change2 in file recently on remote 
+
+change 3 -> tesr for rebase fromlocal master
+ File2 is updated
