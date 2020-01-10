@@ -1,4 +1,7 @@
 hellow word!!
 wlcome to git...
+
 features1 login
-features2 password 
+
+features2 logout
+changes in file bug1
