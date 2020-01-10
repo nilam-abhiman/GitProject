@@ -3,6 +3,6 @@ wlcome to git...
 
 features1 login-updated by team member for checking 3 way merging 
 
-features2 logout
-changes in file bug1
-bug2
+features2 logout 
+changes in file bug1 
+bug2 -fixed
