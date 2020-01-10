@@ -5,3 +5,4 @@ features1 login
 
 features2 logout
 changes in file bug1
+bug2
